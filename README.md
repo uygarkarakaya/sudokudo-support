@@ -16,8 +16,8 @@ Open http://127.0.0.1:4173. Stop with Ctrl+C. Python 3 is needed only for this l
 
 The website is a completed local draft. Do not treat its privacy wording as a verified legal determination.
 
-- Confirm the public email and operator/contact name. The supplied email `uygarkarakaya@gmail/com` needs correction/confirmation; `uygarkarakaya@gmail.com` has been proposed. The operator name is still pending.
-- Replace every `[PUBLIC EMAIL — to be confirmed]` and `[OPERATOR NAME — to be confirmed]` in `dist/privacy.html` and `dist/support.html`. Make the support email a real `mailto:` link after confirmation. No form or fake email is included.
+- The confirmed public support and privacy email is `uygarkarakaya@gmail.com`. The operator/contact name is still pending.
+- Replace every `[OPERATOR NAME — to be confirmed]` in `dist/privacy.html` and `dist/support.html`. The confirmed email is already linked with `mailto:` on both pages.
 - Set the privacy effective date in `dist/privacy.html`, and confirm your support correspondence retention practices and email service provider. Add applicable operator address/jurisdiction details if needed; none have been invented.
 - Review the actual release SDK versions, AdMob settings, mediation partners (if any), regional privacy messages, intended audience/age treatment, purchase availability, and App Store privacy disclosures. The draft is based on the provided app audit, not a new inspection of the iOS repository.
 - Confirm the hosting provider and associated processing. For GitHub Pages, review GitHub’s hosting privacy terms/logging practices and update the website paragraph as necessary. Analytics and tracking are not included in this site's code; enabling them later requires another review.
